@@ -1,0 +1,13 @@
+npm init -y
+yarn add -D typescript
+npx tsc --init
+yarn add -D ts-node
+yarn add -D ts-node-dev ili yarn add nodemon
+----------------------------------------------
+yarn add express
+yarn add -D @types/express
+yarn add -D @types/node
+
+
+Create interface for objects and interface for verything else
+
